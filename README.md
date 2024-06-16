@@ -1,2 +1,2 @@
 # DiplomaMag
-Docs and schemas fro diploma
+Docs and schemas for diploma
